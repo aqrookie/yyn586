@@ -1151,19 +1151,7 @@
 
 	"lives":[
                                 {"name":"直播频道","url":"https://gitee.com/yyn586/yyn586/raw/master/zhibo/%E6%BA%90.m3u"},
-                                     	
-			{
-				"group":"redirect",
-				"channels":[
-					{
-						"name":"redirect",
-						"urls":[
-							"proxy://do=live&type=live&proxy=&url="
-						]
-					}
-				]
-			}
-		],
+     
 	{
 				"group":"redirect",
 				"channels":[
