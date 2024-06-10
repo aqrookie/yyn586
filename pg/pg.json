@@ -923,13 +923,13 @@
       "filterable": 0
     },
 {
-"key": "直播转点播",
-"name": "🔞颜直播",
-"type": 3,
-"searchable": 0,
-"api": "./lib/live2vod.js",
-"ext": "./lib/feimaolive.json"
-    },
+			"key": "直播转点播",
+			"name": "🔞颜直播",
+			"type": 3,
+			"searchable": 0,
+			"api": "./lib/live2vod.js",
+			"ext": "./lib/feimaolive.json"
+		},
 {
       "key": "drpy_js_s直播",
       "name": "🔞色直播",
@@ -1076,7 +1076,7 @@
 {"key":"JavDb","name":"🔞JavDb","type":3,"style":{"ratio":1.7},"api":"csp_JavDb","timeout":60,"ext":"./lib/tokenm.json$$$http://javdb365.com"},
 {
             "key": "Taohuazu",
-            "name": "桃花族",
+            "name": "🔞桃花族",
             "type": 3,
             "api": "csp_Taohuazu",
             "searchable": 1,
