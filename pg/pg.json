@@ -23,6 +23,16 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
+
+                {
+                                 "key":"影视",
+                                 "name":"猫TV直播",        
+                                 "type": 3,
+                                 "api": "https://d.kstore.space/download/2883/sdtv.js",
+                                 "ext": "https://d.kstore.space/download/2883/sdtv.txt",
+                                 "jar": "https://d.kstore.space/download/2883/sdtv.jar"
+                                 
+                                  },
 		
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
 			"style": {
