@@ -35,6 +35,85 @@
 				"ratio": 1.5
 			}
 		},
+
+{
+"key": "直播转点播",
+"name": "🔞颜直播",
+"type": 3,
+"searchable": 0,
+"api": "./lib/live2vod.js",
+"ext": "./lib/feimaolive.json"
+    },
+{
+      "key": "drpy_js_s直播",
+      "name": "🔞色直播",
+      "type": 3,
+      "api": "./lib/ss直播.js",
+      "ext": "./lib/s直播.js"
+    }, 
+{
+      "key": "Cg51",
+      "name": "🔞51吃瓜",
+      "type": 3,
+      "api": "csp_Cg51",
+      "jar": "./lib/sex.jar",
+      "searchable": 1,
+      "filterable": 1
+    },
+{
+      "key": "XMVideo",
+      "name": "🔞熊猫",
+      "type": 3,
+      "api": "csp_XMVideo",
+      "jar": "./lib/sex.jar",
+      "searchable": 1,
+      "filterable": 1
+    },
+       {
+      "key": "J91",
+      "name": "🔞91",
+      "type": 3,
+      "api": "csp_J91",
+      "jar": "./lib/sex.jar",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MiMei",
+      "name": "🔞迷妹",
+      "type": 3,
+      "api": "csp_MiMei",
+      "jar": "./lib/sex.jar",
+      "searchable": 1,
+      "filterable": 1
+    },
+     {
+      "key": "ROU223",
+      "name": "🔞ROU",
+      "type": 3,
+      "api": "csp_ROU223",
+      "jar": "./lib/sex.jar",
+      "searchable": 0,
+      "filterable": 1
+    },
+    {
+      "key": "HiPianZhiBo",
+      "name": "🔞嗨片",
+      "type": 3,
+      "api": "csp_HiPianZhiBo",
+      "jar": "./lib/sex.jar",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "JJAiPian",
+      "name": "🔞久久",
+      "type": 3,
+      "api": "csp_JJAiPian",
+      "jar": "./lib/sex.jar",
+      "searchable": 1,
+      "filterable": 1
+    },		
 		
 {"key":"处女控","name":"🔞伦理","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 { "key": "白嫖资源", "name": "🔞白嫖", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 0, "quickSearch": 0, "filterable": 0 },
@@ -169,84 +248,6 @@
       "filterable": 0
     },
 {
-"key": "直播转点播",
-"name": "🔞颜直播",
-"type": 3,
-"searchable": 0,
-"api": "./lib/live2vod.js",
-"ext": "./lib/feimaolive.json"
-    },
-{
-      "key": "drpy_js_s直播",
-      "name": "🔞色直播",
-      "type": 3,
-      "api": "./lib/ss直播.js",
-      "ext": "./lib/s直播.js"
-    }, 
-{
-      "key": "Cg51",
-      "name": "🔞51吃瓜",
-      "type": 3,
-      "api": "csp_Cg51",
-      "jar": "./lib/sex.jar",
-      "searchable": 1,
-      "filterable": 1
-    },
-{
-      "key": "XMVideo",
-      "name": "🔞熊猫",
-      "type": 3,
-      "api": "csp_XMVideo",
-      "jar": "./lib/sex.jar",
-      "searchable": 1,
-      "filterable": 1
-    },
-       {
-      "key": "J91",
-      "name": "🔞91",
-      "type": 3,
-      "api": "csp_J91",
-      "jar": "./lib/sex.jar",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "MiMei",
-      "name": "🔞迷妹",
-      "type": 3,
-      "api": "csp_MiMei",
-      "jar": "./lib/sex.jar",
-      "searchable": 1,
-      "filterable": 1
-    },
-     {
-      "key": "ROU223",
-      "name": "🔞ROU",
-      "type": 3,
-      "api": "csp_ROU223",
-      "jar": "./lib/sex.jar",
-      "searchable": 0,
-      "filterable": 1
-    },
-    {
-      "key": "HiPianZhiBo",
-      "name": "🔞嗨片",
-      "type": 3,
-      "api": "csp_HiPianZhiBo",
-      "jar": "./lib/sex.jar",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "JJAiPian",
-      "name": "🔞久久",
-      "type": 3,
-      "api": "csp_JJAiPian",
-      "jar": "./lib/sex.jar",
-      "searchable": 1,
-      "filterable": 1
-    },
-{
      "key": "XVDiZhi.com",
      "name": "🔞XVideos", 
      "type": 3,
@@ -316,13 +317,9 @@
         "分类url": "https://u9a9b.cc/?type={cateId}&p={catePg};;m"
             }
         },
-
-{"key":"AvTime","name":"🔞AvTime","type":3,"api":"csp_AvTime"},
-{"key":"Eighteen","name":"🔞EighteenAv","type":3,"style":{"ratio":1.7},"api":"csp_Eighteen"},
-{"key":"JavDb","name":"🔞JavDb","type":3,"style":{"ratio":1.7},"api":"csp_JavDb","timeout":60,"ext":"./lib/tokenm.json$$$http://javdb365.com"},
 {
             "key": "Taohuazu",
-            "name": "桃花族",
+            "name": "🔞✈桃花族",
             "type": 3,
             "api": "csp_Taohuazu",
             "searchable": 1,
@@ -331,8 +328,11 @@
             "filterable": 0,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$http://777631.xyz/$$$"
-        },
-
+        },	
+		
+{"key":"AvTime","name":"🔞✈AvTime","type":3,"api":"csp_AvTime"},
+{"key":"Eighteen","name":"🔞✈EighteenAv","type":3,"style":{"ratio":1.7},"api":"csp_Eighteen"},
+{"key":"JavDb","name":"🔞✈JavDb","type":3,"style":{"ratio":1.7},"api":"csp_JavDb","timeout":60,"ext":"./lib/tokenm.json$$$http://javdb365.com"},
 {"key":"麻豆","name":"🔞✈麻豆","type":1,"api":"https://www.md91.cc/api.php/provide/vod/","style":{"ratio":1.7}},
 {"key":"黄瓜","name":"🔞✈黄瓜","type":1,"style":{"ratio":1.7},"api":"https://www.avre06.com/api.php/provide/vod","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="}, 
 {"key":"天美","name":"🔞✈天美","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","style":{"ratio":1.7},
