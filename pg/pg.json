@@ -4,7 +4,27 @@
 "logo": "http://m.qpic.cn/psc?/V50BJIVX3WMY9a2aHeC3036KFx3FQb6B/6tCTPh7N*X6CBkvkDvKlZZGOoXhIz*ckxUJYBM62NdCr4QzGy0*YdeJddbMUt7LtzbnaBvkGyGPTTuB5uTW1Vo2IUVy1ATQxIzYidYsl2tM!/b&bo=QAZgCUAGYAkBByA!&rf=viewer_4",
 
 	"sites":[                                 
-
+{
+			"key":"Youtube",
+			"name":"Youtube",
+			"type":3,
+			"api": "csp_Youtube",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext":{
+				"json":"./lib/youtube.json",
+				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+				"proxy":"proxy",
+				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+				"codecs":""
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			}
+		},
+		
 {"key":"处女控","name":"🔞伦理","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 { "key": "白嫖资源", "name": "🔞白嫖", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 0, "quickSearch": 0, "filterable": 0 },
 {"key": "timizy","name": "🔞甜蜜","type": 1,"api": "https://timizy10.cc/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1}, 
