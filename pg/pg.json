@@ -4,7 +4,18 @@
 "logo": "http://m.qpic.cn/psc?/V50BJIVX3WMY9a2aHeC3036KFx3FQb6B/6tCTPh7N*X6CBkvkDvKlZZGOoXhIz*ckxUJYBM62NdCr4QzGy0*YdeJddbMUt7LtzbnaBvkGyGPTTuB5uTW1Vo2IUVy1ATQxIzYidYsl2tM!/b&bo=QAZgCUAGYAkBByA!&rf=viewer_4",
 
 	"sites":[                                 
-{
+
+	{
+			"key": "网盘配置",
+			"name": "网盘及彈幕配置",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"ext":"./lib/tokenm.json"
+		},	
+				
+		{
 			"key":"Youtube",
 			"name":"Youtube",
 			"type":3,
