@@ -1,6 +1,6 @@
 {
 	"spider":"./pg.jar",
-        "logo": "",
+        "logo": "http://photogz.photo.store.qq.com/psc?/V50BJIVX3WMY9a2aHeC3036KFx3FQb6B/6tCTPh7N*X6CBkvkDvKlZfsjCWlYMcMDSqzW4LjnKmoNB963YP01X0WJsaPTQtjNTXFnVWMA3Z*yrWfUqu7Yl.at09VUZ0Hy4Z*wEMV77s0!/b&bo=cAOAB3ADgAcBByA!&rf=viewer_4",
 
 	"sites":[                                 
 
@@ -187,6 +187,6 @@
 			{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}
 		],
 		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
-		"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-		"disabled_wallpaper":"http://饭太硬.top/深色壁纸/api.php"
+		"wallpaper": "http://m.qpic.cn/psc?/V50BJIVX3WMY9a2aHeC3036KFx3FQb6B/6tCTPh7N*X6CBkvkDvKlZRkNLKhGHFMAjTZGKu7zI3pl2bjnEhVRlWUp.SrYiDjrdBfSU72DxxxGtkIbbTZEH48JsWbwIOjVcmiHOGIk4fM!/b&bo=QAZgCUAGYAkBByA!&rf=viewer_4",
+		"disabled_wallpaper":"http://m.qpic.cn/psc?/V50BJIVX3WMY9a2aHeC3036KFx3FQb6B/6tCTPh7N*X6CBkvkDvKlZRkNLKhGHFMAjTZGKu7zI3pl2bjnEhVRlWUp.SrYiDjrdBfSU72DxxxGtkIbbTZEH48JsWbwIOjVcmiHOGIk4fM!/b&bo=QAZgCUAGYAkBByA!&rf=viewer_4"
 }
