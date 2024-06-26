@@ -1,6 +1,6 @@
 {
 	"spider":"./pg.jar",
-        "logo": "http://m.qpic.cn/psc?/V50BJIVX3WMY9a2aHeC3036KFx3FQb6B/MgefXoixntJCvPruFHdJTfj2UIVGzC1.omcybR81x6*Tj*Tt4BRFC*Q5bOndMX*P5OlPq351voV949SsjP3TGeNrz7WQzwmDUm7Y71OQq*k!/b&bo=3AXQB9wF0AcBByA!&rf=viewer_4",
+        "logo": "http://3650000.xyz/api/",
 
 	"sites":[                                 
 
@@ -187,6 +187,6 @@
 			{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}
 		],
 		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
-		"wallpaper": "http://m.qpic.cn/psc?/V50BJIVX3WMY9a2aHeC3036KFx3FQb6B/6tCTPh7N*X6CBkvkDvKlZRkNLKhGHFMAjTZGKu7zI3pl2bjnEhVRlWUp.SrYiDjrdBfSU72DxxxGtkIbbTZEH48JsWbwIOjVcmiHOGIk4fM!/b&bo=QAZgCUAGYAkBByA!&rf=viewer_4",
-		"disabled_wallpaper":"http://m.qpic.cn/psc?/V50BJIVX3WMY9a2aHeC3036KFx3FQb6B/6tCTPh7N*X6CBkvkDvKlZRkNLKhGHFMAjTZGKu7zI3pl2bjnEhVRlWUp.SrYiDjrdBfSU72DxxxGtkIbbTZEH48JsWbwIOjVcmiHOGIk4fM!/b&bo=QAZgCUAGYAkBByA!&rf=viewer_4"
+		"wallpaper": "http://3650000.xyz/api/",
+		"disabled_wallpaper":"http://3650000.xyz/api/"
 }
